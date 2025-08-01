@@ -2,7 +2,7 @@
     font-family: "Playwrite AU QLD", cursive;
 }
 header{
-   background-image:url(../images/pizza-2589577_1280.jpg));
+   background-image:url(./pizza-2589577_1280.jpg);
     background-position: center center;
     background-size: cover;
     min-height: 100vh;
@@ -73,6 +73,7 @@ transform: translateY(50%);
  .navbar-nav:hover a{
     color: rgb(235, 157, 14);
  }
+
 
 
 
